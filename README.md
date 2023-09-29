@@ -1,4 +1,8 @@
-# ecommerce_empresa_x
-Este e um e-commerce para a empresa X, feito em PHP e MySQL
-# Alis Esmeralda
-Alis piu piu
+# Ecommerce_empresa_x
+
+Vamos criar um e-commerce, para empresa X
+
+
+## Funcionabilidade
+
+Checkout, tela de produto, catalogo
