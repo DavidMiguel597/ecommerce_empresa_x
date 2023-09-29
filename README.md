@@ -38,6 +38,6 @@ __Melhoria 1__, melhoria 2
   
   #### Imagem local
 
-    ![logo tree](img/planta.png)
+    ![aplanta](img/planta.png)
 
 
