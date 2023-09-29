@@ -67,4 +67,4 @@ __Melhoria 1__, melhoria 2
  #### Logo python
 
 
- [![python][](img/portrait-lion-ai-generated_268835-4278.avif)](https://github.com/DavidMiguel597)
+ [![carita](img/portrait-lion-ai-generated_268835-4278.avif)](https://github.com/DavidMiguel597)
