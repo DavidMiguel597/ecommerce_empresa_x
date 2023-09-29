@@ -49,4 +49,4 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]
+  ![logo_externo]https://logosmarcas.net/wp-content/uploads/2020/07/Detroit-Lions-logo.png
