@@ -46,4 +46,4 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]https://www.pngegg.com/es/png-znsau
+  ![logo_externo]https://www.pngegg.com/es/png-zcucg
