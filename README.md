@@ -82,6 +82,6 @@ __Melhoria 1__, melhoria 2
  ## Lista de tarefas a fazer
 
  - [x] Area de membros
- - Integracao com outros pagamentos
+ - []  Integracao com outros pagamentos
  - Sistema de bonus
  - [x] Css do rodape
