@@ -46,4 +46,4 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png
+  ![logo_externo]https://pt.wikipedia.org/wiki/Brasil#/media/Ficheiro:Flag_of_Brazil.svg
