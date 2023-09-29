@@ -42,3 +42,8 @@ __Melhoria 1__, melhoria 2
 
   
   ![](img/png-clipart-wolf-resources-grey-wolf-thumbnail.png)
+
+
+  #### Logo externo
+
+  ![logo_externo]https://www.pngegg.com/es/png-znsau
