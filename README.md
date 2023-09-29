@@ -29,6 +29,9 @@ __Melhoria 1__, melhoria 2
 ### Funcionalidade a resolver
 
 1. Area de membros
+   1. Login diferente para grupo de cliente
+   2. Desconto especial para grupo de cliente
+   3. Css diferente para cada grupo de cliente
 2. Integracao com outros pagamentos
 3. Sistema de bonus por meio de compras
    
