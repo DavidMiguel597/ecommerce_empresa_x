@@ -46,4 +46,4 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]https://www.pngegg.com/es/png-zcucg
+  ![logo_externo]https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc2%2FGalaxy_store_logo.png&tbnid=iOFZF_iNytTirM&vet=12ahUKEwif39Hpj9CBAxWFT7gEHWbhA5IQMygBegQIARBL..i&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AGalaxy_store_logo.png&docid=fJ7OOP67Z1YqSM&w=230&h=230&q=descargar%20imagen%20png%20wikipedia&ved=2ahUKEwif39Hpj9CBAxWFT7gEHWbhA5IQMygBegQIARBL
