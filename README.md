@@ -46,4 +46,6 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fc%2Fc2%2FGalaxy_store_logo.png&tbnid=iOFZF_iNytTirM&vet=12ahUKEwif39Hpj9CBAxWFT7gEHWbhA5IQMygBegQIARBL..i&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3AGalaxy_store_logo.png&docid=fJ7OOP67Z1YqSM&w=230&h=230&q=descargar%20imagen%20png%20wikipedia&ved=2ahUKEwif39Hpj9CBAxWFT7gEHWbhA5IQMygBegQIARBL
+  ![logo_externo]https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FBrasil&psig=AOvVaw3t6g-M39oqp8a3Spr5KZla&ust=1696087333916000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC3lOmP0IEDFQAAAAAdAAAAABAJ
+
+  
