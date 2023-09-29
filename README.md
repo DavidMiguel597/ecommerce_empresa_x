@@ -24,6 +24,14 @@ __Melhoria 1__, melhoria 2
 * JAVASCRIPT
 * PHP
 * MYSQL
+
+
+### Funcionalidade a resolver
+
+1. Area de membros
+2. Integracao com outros pagamentos
+3. Sistema de bonus por meio de compras
+   
   
 
 
