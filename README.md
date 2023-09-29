@@ -5,11 +5,11 @@ Vamos criar um **e-commerce**, para *empresa X*
 
 ## Funcionabilidade
 
-Checkout, tela de produto, catalogo
+Checkout, **tela de produto**, _catalogo_
 
 
 ###### Melhoria do projeto
 
-Melhoria 1, melhoria 2
+__Melhoria 1__, melhoria 2
 
 
