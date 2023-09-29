@@ -83,5 +83,5 @@ __Melhoria 1__, melhoria 2
 
  - [x] Area de membros
  - []  Integracao com outros pagamentos
- - Sistema de bonus
+ - []  Sistema de bonus
  - [x] Css do rodape
