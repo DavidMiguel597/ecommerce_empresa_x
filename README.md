@@ -44,6 +44,9 @@ __Melhoria 1__, melhoria 2
   ![](img/png-clipart-wolf-resources-grey-wolf-thumbnail.png)
 
 
+  ![](img/lion7161.logowik.com.webp)
+
+
   #### Logo externo
 
-  ![logo_externo]https://logowik.com/content/uploads/images/lion7161.logowik.com.webp
+  ![logo_externo]
