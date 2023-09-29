@@ -38,6 +38,4 @@ __Melhoria 1__, melhoria 2
   
   #### Imagem local
 
-    ![aplanta](img/planta.png)
-
-
+    ![planta](img/splash-green-liquid-with-leaf-air_690834-605%20(1).jpg)
