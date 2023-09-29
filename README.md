@@ -68,3 +68,14 @@ __Melhoria 1__, melhoria 2
 
 
  [![carita](img/portrait-lion-ai-generated_268835-4278.avif)](https://github.com/DavidMiguel597)
+
+
+ ## Codigo da funcao soma
+
+ ´´´ Javascript
+
+  function soma(a,b) {
+    return a+b;
+  }
+
+ ´´´
