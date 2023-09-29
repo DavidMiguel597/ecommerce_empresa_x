@@ -16,3 +16,14 @@ Checkout, **tela de produto**, _catalogo_
 __Melhoria 1__, melhoria 2
 
 
+
+### Linguaguem do projeto
+
+* HTML
+* CSS
+* JAVASCRIPT
+* PHP
+* MYSQL
+  
+
+
