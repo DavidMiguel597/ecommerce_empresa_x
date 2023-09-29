@@ -38,6 +38,6 @@ __Melhoria 1__, melhoria 2
   
   #### Imagem local
 
-    ![logo_hat](img/sombra.jpg)
+    ![logo hat](img/sombra.jpg)
 
 
