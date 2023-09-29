@@ -61,4 +61,6 @@ __Melhoria 1__, melhoria 2
 
   [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
+  Contribuidor principal: https://github.com/DavidMiguel597
+
  
