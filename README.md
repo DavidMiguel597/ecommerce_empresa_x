@@ -67,4 +67,4 @@ __Melhoria 1__, melhoria 2
  #### Logo python
 
 
- ![python](img/Python-logo-notext.svg.png)
+ [![python](img/Python-logo-notext.svg.png)](https://github.com/DavidMiguel597)
