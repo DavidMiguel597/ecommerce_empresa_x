@@ -8,6 +8,9 @@ Vamos criar um **e-commerce**, para *empresa X*
 Checkout, **tela de produto**, _catalogo_
 
 
+**Checkout, _tela de produto_, catalogo**
+
+
 ###### Melhoria do projeto
 
 __Melhoria 1__, melhoria 2
