@@ -64,7 +64,7 @@ __Melhoria 1__, melhoria 2
   Contribuidor principal: https://github.com/DavidMiguel597
 
 
- #### Logo python
+ #### David Miguel
 
 
  [![carita](img/portrait-lion-ai-generated_268835-4278.avif)](https://github.com/DavidMiguel597)
