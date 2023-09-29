@@ -41,4 +41,4 @@ __Melhoria 1__, melhoria 2
   ![planta](img/splash-green-liquid-with-leaf-air_690834-605%20(1).jpg)
 
   
-  [fumasa](img/abstract-ink-figure_1112-819.avif)
+  ![](img/png-clipart-wolf-resources-grey-wolf-thumbnail.png)
