@@ -36,5 +36,8 @@ __Melhoria 1__, melhoria 2
 3. Sistema de bonus por meio de compras
    
   
+  #### Imagem local
+
+    ![logo_hat](img/sombra.jpg)
 
 
