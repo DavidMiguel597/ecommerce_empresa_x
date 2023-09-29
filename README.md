@@ -72,10 +72,10 @@ __Melhoria 1__, melhoria 2
 
  ## Codigo da funcao soma
 
- ´´´ Javascript
+  ``` Javascript
 
   function soma(a,b) {
     return a+b;
   }
 
- ´´´
+ ```
