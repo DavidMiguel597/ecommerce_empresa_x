@@ -43,8 +43,10 @@ __Melhoria 1__, melhoria 2
   
   ![](img/png-clipart-wolf-resources-grey-wolf-thumbnail.png)
 
+ ![](https://thumbs.dreamstime.com/b/lioness-portrait-3975946.jpg)
 
-  ![](img/lion7161.logowik.com.webp)
+  
+
 
 
   #### Logo externo
