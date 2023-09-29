@@ -46,4 +46,4 @@ __Melhoria 1__, melhoria 2
 
   #### Logo externo
 
-  ![logo_externo]https://images.app.goo.gl/gGrQG6TEiqiLdWkQ7
+  ![logo_externo]https://static.vecteezy.com/system/resources/previews/021/950/361/non_2x/lion-illustration-ai-generated-free-photo.jpg
