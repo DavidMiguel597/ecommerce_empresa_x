@@ -63,4 +63,4 @@ __Melhoria 1__, melhoria 2
 
   Contribuidor principal: https://github.com/DavidMiguel597
 
- 
+ ![python](img/Python-logo-notext.svg.png)
