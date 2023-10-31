@@ -19,3 +19,9 @@ __Melhoria 1__, _melhoria 2_
 * php
 * Mysql
 
+### Funcionabilidade de desenvolvedor
+
+1. Area de membros
+2. Integracao com outros pGgamentos
+3. Sistema de bonus, primeras compras
+
