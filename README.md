@@ -28,3 +28,5 @@ __Melhoria 1__, _melhoria 2_
 2. Integracao com outros pGgamentos
 3. Sistema de bonus, primeras compras
 
+### Imagem local
+  ![logo de python](img/Python-logo-notext.svg.png)
