@@ -22,6 +22,9 @@ __Melhoria 1__, _melhoria 2_
 ### Funcionabilidade de desenvolvedor
 
 1. Area de membros
+   1. loginho
+   2. desconto
+   3. css usuario
 2. Integracao com outros pGgamentos
 3. Sistema de bonus, primeras compras
 
