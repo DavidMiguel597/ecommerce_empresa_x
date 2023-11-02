@@ -42,5 +42,5 @@ __Melhoria 1__, _melhoria 2_
 
 Contribuidor principal: https://www.github.com/Davidmiguel597 
 
-![logo de PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)( https://www.github.com/Davidmiguel597)
+[![logo de PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)]( https://www.github.com/Davidmiguel597)
 
