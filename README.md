@@ -46,9 +46,9 @@ Contribuidor principal: https://www.github.com/Davidmiguel597
 
  ## Codigo da funcao soma
 
-``Javascript
+```Javascript
   function soma(a,b){
     return a + b;
   }
-``
+```
 
