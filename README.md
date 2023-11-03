@@ -54,10 +54,10 @@ Contribuidor principal: https://www.github.com/Davidmiguel597
 
 ## Lista de tarefas
 
--[x] Area de membros
--[ ] Integracao com outros pagamentos
--[ ] Sistema de bonus
--[x] CSS do rodape
+- [x] Area de membros
+- [ ] Integracao com outros pagamentos
+- [ ] Sistema de bonus
+- [x] CSS do rodape
 
 
 
