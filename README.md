@@ -44,3 +44,11 @@ Contribuidor principal: https://www.github.com/Davidmiguel597
 
 [![logo de PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)]( https://www.github.com/Davidmiguel597)
 
+ ## Codigo da funcao soma
+
+``Javascript
+  function soma(a,b){
+    return a + b;
+  }
+``
+
